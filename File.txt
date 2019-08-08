@@ -1,2 +1,6 @@
 This is the first file 1.
+<<<<<<< HEAD
 This is a code introduced by developer 1 and developer2.
+=======
+This is a code introduced by developer 1.
+>>>>>>> refs/heads/master
